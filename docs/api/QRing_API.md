@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Last updated:** 2025-11-30  
-**Author:** Q-Ring Technologies — Joel Buyus
+**Author:** Q-Ring Tech Ug — Joel Buyungo
 
 This document specifies the Bluetooth Low Energy (BLE) GATT profile implemented by Q-Ring V1, the mobile app ↔ cloud API endpoints, authentication model, example payloads, error handling, and versioning guidelines. Use this document for firmware, mobile, and backend integration.
 
