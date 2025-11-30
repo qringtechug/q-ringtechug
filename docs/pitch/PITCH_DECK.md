@@ -2,7 +2,7 @@
 
 ## Slide 1 — Cover
 Q-Ring V1 — Emotion-AI Smart Ring
-Founder: Joel Buyus
+Founder: Joel Buyungo
 
 ## Slide 2 — Problem
 Rising global stress; existing wearables do not translate emotion into actionable insight.
